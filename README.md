@@ -40,6 +40,33 @@
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/15.29.PNG)<br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/15.30.PNG)<br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/15.31.PNG)<br />
+![alt text]()<br />
+![alt text]()<br />
+![alt text]()<br />
+![alt text]()<br />
+![alt text]()<br />
+![alt text]()<br />
+![alt text]()<br />
+![alt text]()<br />
+![alt text]()<br />
+![alt text]()<br />
+![alt text]()<br />
+![alt text]()<br />
+![alt text]()<br />
+![alt text]()<br />
+![alt text]()<br />
+![alt text]()<br />
+![alt text]()<br />
+![alt text]()<br />
+![alt text]()<br />
+![alt text]()<br />
+![alt text]()<br />
+![alt text]()<br />
+![alt text]()<br />
+![alt text]()<br />
+![alt text]()<br />
+![alt text]()<br />
+![alt text]()<br />
 
 4. Video<br />
 
