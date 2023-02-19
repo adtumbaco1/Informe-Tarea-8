@@ -19,9 +19,9 @@
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/15.8.PNG)<br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/15.9.PNG)<br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/15.10.PNG)<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/15.11.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/15.12.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/15.13.PNG)<br />
 ![alt text]()<br />
 ![alt text]()<br />
 ![alt text]()<br />
