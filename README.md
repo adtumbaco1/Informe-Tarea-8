@@ -29,10 +29,10 @@
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/15.18.PNG)<br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/15.19.PNG)<br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/15.20.PNG)<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/15.21.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/15.22.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/15.23.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/15.24.PNG)<br />
 ![alt text]()<br />
 ![alt text]()<br />
 ![alt text]()<br />
