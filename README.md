@@ -9,7 +9,9 @@
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/CIRCUITOS%20RC.png)<br /><br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/CIRCUITOS%20RL.png)<br /><br />
 3. Problemas (IMPARES)<br />
-![alt text]()<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/15.1.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/15.2.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/15.3.PNG)<br />
 ![alt text]()<br />
 ![alt text]()<br />
 ![alt text]()<br />
