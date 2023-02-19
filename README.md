@@ -40,35 +40,17 @@
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/15.29.PNG)<br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/15.30.PNG)<br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/15.31.PNG)<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/16.1.png)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/16.2.png)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/16.3.png)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/16.4.png)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/16.5.png)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/16.6.png)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/16.7.png)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/16.8.png)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/16.9.png)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-8/blob/main/16.10.png)<br />
 
-4. Video<br />
 
 5. Conclusiones <br />
 •	Aplicar lo aprendido durante la unidad facilita la resolucion de los ejercicios que son de forma polar y rectangular tambien como realizar las mediciones de capacitancia y reactancia.<br />
